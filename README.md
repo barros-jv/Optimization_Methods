@@ -10,8 +10,8 @@ Métodos Determinísticos:
     - Método de Newton
     - Método Quasi-Newton
     
-  Métodos Heurísticos:
-    - Algoritmo genético
-    - Evolução diferenciada
-    - Enxame de partículas
-    - Recozimento simulado
+Métodos Heurísticos:
+  - Algoritmo genético
+  - Evolução diferenciada
+  - Enxame de partículas
+  - Recozimento simulado
